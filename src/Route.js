@@ -8,7 +8,7 @@ class Route extends Component {
   render() {
     return (
       <Router>
-        <Scene cardStyle={ {backgroundColor: '#fff' } } key="root">
+        <Scene cardStyle={ {backgroundColor: '#fff'} } key="root">
           <Scene key="loginForm" component={LoginForm} title="Please Login" />
           <Scene
             onRight={() => Actions.employeeCreate()}
