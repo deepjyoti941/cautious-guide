@@ -11,13 +11,13 @@ class Route extends Component {
         <Scene cardStyle={ {backgroundColor: '#fff'} } key="root">
           <Scene key="loginForm" component={LoginForm} title="Please Login" />
           <Scene
-            onRight={() => Actions.employeeCreate()}
+            onRight={() => Actions.createEmployee()}
             rightTitle="Add"
             key="employeeList"
             component={EmployeeList}
             title="Employees"
-            renderLeftButton={true} initial/>
-          <Scene key="employeeCreate" component={EmployeeCreate} title="Create Employee" />
+            renderLeftButton={true} />
+          <Scene key="createEmployee" component={EmployeeCreate} title="Create Employee"/>
         </Scene>
       </Router>
     );

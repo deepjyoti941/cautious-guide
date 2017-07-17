@@ -6,6 +6,8 @@ import ReduxThunk from 'redux-thunk';
 import reducers from './reducers';
 import Route from './Route';
 
+console.disableYellowBox = true;
+
 class App extends Component {
   componentWillMount() {
     const config = {
