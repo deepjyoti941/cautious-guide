@@ -16,7 +16,7 @@ In the root of project
 - react-native run-ios/run-android
 
 ## Screens
-![screen1](/docs/screens/screen1.png | width=250)
+![screen1](/docs/screens/screen1.png){:width="250px"}
 
 ## API Reference
 --have to come--
