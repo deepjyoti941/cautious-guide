@@ -16,7 +16,7 @@ In the root of project
 - react-native run-ios/run-android
 
 ## Screens
-![screen1](/cautious-guide/docs/screens/screen1.png)
+![screen1](/docs/screens/screen1.png)
 
 ## API Reference
 --have to come--
