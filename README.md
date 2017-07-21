@@ -20,11 +20,28 @@ In the root of project
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
         <img src="/docs/screens/screen1.png" width="200"/>
-        Login screen
+        <br/>
+        Login
     </td>
     <td style="text-align: center">
         <img src="/docs/screens/screen2.png" width="200"/>
+        <br/>
         Employee list
+    </td>
+    <td style="text-align: center">
+        <img src="/docs/screens/screen3.png" width="200"/>
+        <br/>
+        Create employee
+    </td>
+    <td style="text-align: center">
+        <img src="/docs/screens/screen4.png" width="200"/>
+        <br/>
+        Edit employee
+    </td>
+    <td style="text-align: center">
+        <img src="/docs/screens/screen5.png" width="200"/>
+        <br/>
+        Actions on Employee
     </td>
 </tr></table></div>
 
