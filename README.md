@@ -16,11 +16,17 @@ In the root of project
 - react-native run-ios/run-android
 
 ## Screens
-![screen1](/docs/screens/screen1.png =250x)
-![screen2](/docs/screens/screen2.png)
-![screen3](/docs/screens/screen3.png)
-![screen4](/docs/screens/screen4.png)
-![screen5](/docs/screens/screen5.png)
+
+<div style="text-align: center"><table><tr>
+    <td style="text-align: center">
+        <img src="/docs/screens/screen1.png" width="200"/>
+        Login screen
+    </td>
+    <td style="text-align: center">
+        <img src="/docs/screens/screen2.png" width="200"/>
+        Employee list
+    </td>
+</tr></table></div>
 
 ## API Reference
 --have to come--
